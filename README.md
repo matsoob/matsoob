@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @matsoob
-- 🌱 I’m currently learning better python, better typescript, and generally trying to get better at what I do
+- 💻 I'm a SWE based in London
+- 🌱 I’m currently learning more about Data Science and Machine Learning
+- 🤟 I mostly work in Python, Node/Typescript, and can handle Java, SQL, Infra-ish stuff, Front End if you need me to
 
 
 
